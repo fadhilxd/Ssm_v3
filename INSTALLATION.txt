@@ -1,0 +1,27 @@
+Here Is Your Defult Login Details:
+
+Go To Login: 
+
+USER - admin@mohit.com
+PASS - 123456
+
+Thank You Very Much for Purchasing or SMM Panel Script. 
+if You Face any Problems with Installation 
+Feel free to Contact us.
+
+WhatsApp: +91 8735020902
+Eamil: starsmmpanel7@gmail.com
+
+
+INSTALLATION
+
+create database 
+
+upload database.sql in your database
+
+then open public_html/app/config.php
+edit 
+
+Complete Installation..
+
+Have a GOOD Day.
